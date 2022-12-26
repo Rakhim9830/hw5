@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalimaliev_Rahim_hm5</string>
+    <string name="lacey_fernandez">Lacey Fernandez</string>
+    <string name="user_profile">USER PROFILE</string>
+    <string name="email_id">Email id</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="great">GREAT</string>
+    <string name="sign_in">Sign In</string>
+    <string name="text">text</string>
+</resources>
